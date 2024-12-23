@@ -1,0 +1,11 @@
+Username,Password,ExpectedResult
+kokarthikaapani@gmail.com,GitHub@18,Positive
+jayaaksharaa24@gmail.com,Aksharaa@24,Positive
+lakshmithirumalt@gmail.com,Suba@2105,Positive
+indhuv2715@gmail.com,Indhu_2715,Positive
+kokarthikaapani@gmail.com,GitHu@18,Negative
+jayaaksharaa24@gmail.com,Aksaraa@24,Negative
+lakshmithirumalt@gmail.com,Sba@2105,Negative
+indhuv2715@gmail.com,Indhu715,Negative
+abcd@yhu.com,kinm,Negative
+abcdefgh,xyz,Negative

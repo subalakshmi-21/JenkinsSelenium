@@ -1,0 +1,5 @@
+Username,Password,ExpectedResult
+validusername,validpassword,Positive
+invalidusername,validpassword,Negative
+validusername,invalidpassword,Negative
+emptyuser,empty,Negative
